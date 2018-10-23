@@ -1,0 +1,10 @@
+[package]
+name = "rsniff"
+version = "0.1.1"
+authors = ["Vincent Stuber <vincent.stuber@tum.de>"]
+description = "A simple port-sniffer"
+license = "MIT"
+
+[dependencies]
+quicli = "0.3"
+rayon = "1"
