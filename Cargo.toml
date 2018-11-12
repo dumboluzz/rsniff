@@ -4,6 +4,7 @@ version = "0.1.1"
 authors = ["Vincent Stuber <vincent.stuber@tum.de>"]
 description = "A simple port-sniffer"
 license = "MIT"
+repository = "https://github.com/dumboluzz/rsniff"
 
 [dependencies]
 quicli = "0.3"
